@@ -1,2 +1,3 @@
 # EkijunJSON
-Ekijun JSON File
+#Ekijun JSON File#
+This is for Ekijun App data.
